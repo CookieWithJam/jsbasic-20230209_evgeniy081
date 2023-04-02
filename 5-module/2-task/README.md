@@ -4,6 +4,7 @@
 
 ```js
 function toggleText() {
+  
   // ваш код...
 }
 
